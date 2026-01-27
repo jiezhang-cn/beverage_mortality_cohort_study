@@ -4,7 +4,8 @@ Beverages are essential sources of fluid intake and may shape long-term health, 
 
 For the study design, please see the following:
 
-![Figure 1_01(1)](https://github.com/user-attachments/assets/f0d018c9-11d1-4e55-b233-c3140c96e5ea)
+![Figure 1_01](https://github.com/user-attachments/assets/e9821a0d-acc6-4b53-9c3c-730fa4c0e67b)
+
 
 
 
